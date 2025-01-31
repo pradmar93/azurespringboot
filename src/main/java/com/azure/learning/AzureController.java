@@ -11,7 +11,7 @@ public class AzureController {
 
     @GetMapping("/test")
     public String test(){
-        return "success";
+        return "Hi congrats on 500 subs. Good job Pradeep";
     }
 
 }
